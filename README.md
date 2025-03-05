@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-My name is Stanisław, I am 20 years old and I study in Gdańśk
+My name is Stanisław, I am 20 years old and I study in Gdańsk
 <!--
 **stachuapa123/stachuapa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-My name is Stanisław, I am 20 years old and I study in Gdańsk
+My name is Stanisław, I am 21 years old and I study data engineering in Gdańsk University of Technology (currently 4th semester). I am passsionate in deep learning and databases.
 <!--
 **stachuapa123/stachuapa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
